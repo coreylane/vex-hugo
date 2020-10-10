@@ -10,12 +10,6 @@ copyright = "Designed By [Themefisher](https://themefisher.com/) & Developed By 
 languageCode = "en-us"
 languageName = "En"
 weight = 1
-[Languages.fr]
-contentDir = ""
-copyright = ""
-languageCode = ""
-languageName = ""
-weight = ""
 [[menu.footer]]
 URL = "blog"
 name = "Blog"
